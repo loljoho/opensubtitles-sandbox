@@ -1,0 +1,20 @@
+{
+  "name": "opensubtitles-sandbox",
+  "version": "1.0.0",
+  "description": "Playing around with the OpenSubtitles.org API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loljoho/opensubtitles-sandbox.git"
+  },
+  "author": "Jonathan Ho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loljoho/opensubtitles-sandbox/issues"
+  },
+  "homepage": "https://github.com/loljoho/opensubtitles-sandbox#readme"
+}
